@@ -15,7 +15,7 @@ This app will be a gateway for users to find 3d models of the human body. The di
 ---
 
 ### Other Info
-This is just a proof on concept. Working app will take a lot more time
+This app is currently a proof on concept with the focus being on the augmented reality functionality. We are performing AR with a string of text. The app can later be scaled with a 3-D image of the human body.
 
 ---
 
