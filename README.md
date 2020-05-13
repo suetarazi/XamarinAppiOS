@@ -25,3 +25,5 @@ This app is currently a proof on concept with the focus being on the augmented r
 - https://www.xamarinarkit.com/
 - https://github.com/leeenglestone/xamarin-docs
 - https://docs.microsoft.com/en-us/xamarin/ios/get-started/installation/device-provisioning/free-provisioning?tabs=windows
+- https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/styling?pivots=windows
+- https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/october/xamarin-augmented-reality-in-xamarin-forms
